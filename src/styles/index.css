@@ -9,3 +9,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.tarea .borrar {
+  display: none;
+}
+
+.tarea:hover .borrar {
+  display: inline;
+}
